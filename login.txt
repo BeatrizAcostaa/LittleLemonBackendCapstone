@@ -1,0 +1,8 @@
+Django superuser: 
+username: beatriza
+Password: Ba189880! 
+
+
+{
+	"token": "6d69447bf7c871a74131abea91166e65e1508a81"
+}
